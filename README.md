@@ -5,6 +5,7 @@
 
 ## 🎮 Sobre el Juego
 En **GO Bubble!!**, controlas una burbuja que debe navegar a través de mundos desafiantes, evitando obstáculos y adaptándose a diferentes dinámicas físicas. Aunque es un prototipo, busca ofrecer una experiencia entretenida que pone a prueba tus reflejos y coordinación.
+
 ![imgGOBubble](https://github.com/user-attachments/assets/cacb6ccd-4781-413a-88a8-a590a06f9fe7)
 
 ### 🌍 Modos de Juego
