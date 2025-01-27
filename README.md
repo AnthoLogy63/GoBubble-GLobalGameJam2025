@@ -26,6 +26,8 @@ En **GO Bubble!!**, controlas una burbuja que debe navegar a través de mundos d
 - **Progresión**: Desafíos que evolucionan de lo básico a lo complejo.
 - **Estilo Visual Ligero**: Diseñado para transmitir la esencia de una idea en desarrollo.
 
+![Captura de pantalla 2025-01-27 121425](https://github.com/user-attachments/assets/fb15baf9-1f11-4571-829e-c7ad4c6b1582)
+
 ## 🚀 Nuestra Experiencia
 Participar en la Global Game Jam 2025 fue una experiencia inolvidable. Crear un prototipo desde cero en tan poco tiempo nos permitió experimentar, aprender y divertirnos como equipo. Aunque no es un juego terminado, estamos orgullosos del resultado y de haber plasmado nuestra visión en algo jugable.
 
